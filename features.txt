@@ -1,0 +1,7 @@
+1. dynamic data fetching from backend
+2. functionality to add candidates
+3. displaying limited no. of candidate on each page
+4. pagination
+5. search
+6. filter
+7. pop up on adding the candidate successfully or error popup
