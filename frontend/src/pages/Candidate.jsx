@@ -7,7 +7,7 @@ import {
   TfiAngleRight,
   TfiFilter,
 } from "react-icons/tfi";
-import { CandidateContext } from "../context/candidateContext";
+import { CandidateContext } from "../context/CandidateContext";
 import { useContext, useEffect, useState } from "react";
 import Item from "../components/Item";
 
